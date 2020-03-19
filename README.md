@@ -25,7 +25,8 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 ## Instructions
 
 1. ***Read the instructions and progressions carefully.*** 
-2. ***Refer to the sample table User_Personal as given below;***
+2. ***Refer to the sample table given below;***
 
 ## PROGRESSION 1:
 1. **Normalize the given table to BCNF.**
+Exercise - 1 image
