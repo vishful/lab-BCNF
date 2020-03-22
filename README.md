@@ -26,7 +26,7 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 
 ## Table
 
-![Image description](https://i1.faceprep.in/ProGrad/sql_forms1.png)
+![Image description](https://i1.faceprep.in/ProGrad/sql-normalisation.png)
 
 ## PROGRESSION 1:
 1. Normalize the given table to BCNF.
